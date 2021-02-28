@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Portfolio
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
