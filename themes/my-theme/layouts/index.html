@@ -1,16 +1,9 @@
 {{ partial "header" .}}
 
-<h1>{{ .Title | markdownify }}</h1>
-{{ .Content }}
-
-<h2>{{ .Site.Params.main.latestPublishHeader | default "My Latest Job" }}</h2>
+<h1 style="margin-bottom: 30px; margin-top: 10px; border-bottom: #8494a4 1px solid">Projects</h1>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
-  {{ range first 1 $pages }}
+  {{ range $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
       {{ partial "portfolio/item" .}}
-    {{ else if in .Site.Params.mainSections "post" }}
-      {{ partial "post/item" .}}
     {{ end }}
   {{ end }}
-
-{{ partial "footer" .}}

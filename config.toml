@@ -24,7 +24,6 @@ pygmentsCodeFences=true
   hrefTargetBlank = true
 
 [params]
-  breadcrumb = true
   accentColor = "#FD3519"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
