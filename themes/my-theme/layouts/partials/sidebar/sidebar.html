@@ -3,13 +3,13 @@
   <div class="intro" style="bottom: unset;">
 
     <div class="logo-container">
-      <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo" style="width: 200px; height: 200px; box-shadow: 0 0 50px #112f41;">
+      <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo" style="width: 200px; height: 200px; box-shadow: 0 0 50px #112f41; display: block; margin-left: auto; margin-right: auto;">
     </div>
 
-    <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
-    <h3>{{ .Site.Params.intro.sub | default "This is my personal website" | emojify }}</h3>
+    <h2 style="text-align: center;">{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
+    <h3 style="text-align: center;">{{ .Site.Params.intro.sub | default "This is my personal website" | emojify }}</h3>
 
-    <div class="socials" style="bottom: unset; padding: 35px 4px;">
+    <div class="socials" style="bottom: unset; padding: 35px 4px; position: unset; max-width: unset; text-align: center;">
         {{ partial "sidebar/social" .}}
     </div>
 
