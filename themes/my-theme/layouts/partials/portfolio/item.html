@@ -1,12 +1,12 @@
-<div class="portfolio-list">
-  <div style="display: inline-block; vertical-align: top; width: 30%;">
+<div class="portfolio-list" style="display: flex; align-items: center;">
+  <div style="display: inline-block; width: 30%;">
     <img src="/portfolio/{{ .Params.Thumbnail }}"/>
   </div>
-  <div style="display: inline-block; vertical-align: top; width: 60%; margin-left: 25px;">
-    <h3 style="margin-top: unset;">{{.Title}}</h3>
-    <p>If your knees aren't green by the end of the day, you ought to seriously re-examine your life.</p>
+  <div style="display: inline-block; width: 66%; margin-left: 25px;">
+    <h3 style="margin-top: unset;">{{ .Title }}</h3>
+    <p>{{ .Content }}</p>
     <div>
-      <a href="www.linkedin.com/luizmanke" style="border-bottom: #8494a4 1px dashed; font-weight: unset;">read more</a>
+      <a href="{{ .Params.projectUrl }}" style="border-bottom: #8494a4 1px dashed; font-weight: unset;">read more</a>
     </div>
   </div>
 </div>
