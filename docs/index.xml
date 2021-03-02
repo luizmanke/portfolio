@@ -7,12 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://luizmanke.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Anomaly Detection in Turbofan Engines</title>
+      <link>https://luizmanke.github.io/portfolio/portfolio/ensemble-anomaly-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luizmanke.github.io/portfolio/portfolio/ensemble-anomaly-detection/</guid>
+      <description>An ensemble anomaly detection framework is proposed to predict failures in turbofan engines before they break. The ensemble model shows great performance in every evaluation metric when compared against its base models.</description>
+    </item>
+    
+    <item>
+      <title>Market Sentiment Analysis</title>
+      <link>https://luizmanke.github.io/portfolio/portfolio/market-sentiment-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luizmanke.github.io/portfolio/portfolio/market-sentiment-analysis/</guid>
+      <description>This is a work in progress that tries to find trends on the Brazillian companies based on the sentiment analysis of tweets. The whole architecture and analysis is made using Google Cloud services.</description>
+    </item>
+    
+    <item>
       <title>Stock Trading</title>
       <link>https://luizmanke.github.io/portfolio/portfolio/stock-trading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://luizmanke.github.io/portfolio/portfolio/stock-trading/</guid>
-      <description>Automated Brazillian stock picking to beat the market index by analyzing profit and price indicators from companies. Statistics is used to ensure backtest quality, while Flask, Heroku and MongoDB are used to maintain free services.</description>
+      <description>Automated Brazillian stock picking to beat the market index by analyzing profit and price indicators from companies. To ensure backtest quality, statistics is used, while Flask, Heroku and MongoDB are used to maintain free services.</description>
     </item>
     
   </channel>
