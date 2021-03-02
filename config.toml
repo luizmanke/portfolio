@@ -2,7 +2,7 @@ baseURL = "https://luizmanke.github.io/portfolio/"
 languageCode = "en-us"
 title = "Luiz F. Manke"
 theme = "my-theme"
-copyright="© Edna West"
+copyright=""
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -40,9 +40,9 @@ canonifyURLs=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = "/images/sidebar_background.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "images/sidebar_background.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/my_picture.jpg" # - default "/images/edna-west.jpg"
+  logo = "images/my_picture.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
