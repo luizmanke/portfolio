@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/designs/</loc>
+    <loc>https://luizmanke.github.io/portfolio/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://luizmanke.github.io/portfolio/portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://luizmanke.github.io/portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/stock-trading/</loc>
+    <loc>https://luizmanke.github.io/portfolio/portfolio/stock-trading/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/</loc>
+    <loc>https://luizmanke.github.io/portfolio/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

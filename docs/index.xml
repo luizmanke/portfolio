@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Luiz F. Manke</title>
-    <link>https://example.com/</link>
+    <link>https://luizmanke.github.io/portfolio/</link>
     <description>Recent content in Portfolio on Luiz F. Manke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Edna West</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Edna West</copyright><atom:link href="https://luizmanke.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stock Trading</title>
-      <link>https://example.com/portfolio/stock-trading/</link>
+      <link>https://luizmanke.github.io/portfolio/portfolio/stock-trading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/portfolio/stock-trading/</guid>
+      <guid>https://luizmanke.github.io/portfolio/portfolio/stock-trading/</guid>
       <description>Automated Brazillian stock picking to beat the market index by analyzing profit and price indicators from companies. Statistics is used to ensure backtest quality, while Flask, Heroku and MongoDB are used to maintain free services.</description>
     </item>
     
