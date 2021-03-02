@@ -3,9 +3,9 @@
     <img src="/portfolio/{{ .Params.Thumbnail }}"/>
   </div>
   <div style="display: inline-block; width: 66%; margin-left: 25px;">
-    <h3 style="margin-top: unset;">{{ .Title }}</h3>
-    <p>{{ .Content }}</p>
-    <div>
+    <h3 style="margin-top: unset; margin-bottom: 5px;">{{ .Title }}</h3>
+    {{ .Content }}
+    <div style="margin-top: -10px;">
       <a href="{{ .Params.projectUrl }}" style="border-bottom: #8494a4 1px dashed; font-weight: unset;">read more</a>
     </div>
   </div>
