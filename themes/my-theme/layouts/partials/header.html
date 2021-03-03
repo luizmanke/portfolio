@@ -6,7 +6,7 @@
 
   {{ partialCached "sidebar/sidebar" .}}
 
-  <div class="content-wrapper">
+  <div class="content-wrapper" style="width: 75%; margin-left: 25%;">
     {{ if .Site.Params.breadcrumb }}
       {{ partial "breadcrumb" .}}
     {{ end }}

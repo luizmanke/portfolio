@@ -4,7 +4,7 @@
   {{ .Content }}
 
   {{ range .Pages.ByDate.Reverse }}
-    {{ partial "portfolio/item" .}}
+    {{ partial "projects/item" .}}
   {{ end }}
 
 {{ partial "footer" .}}
