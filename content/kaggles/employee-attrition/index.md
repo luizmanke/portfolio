@@ -5,5 +5,4 @@ projectUrl: https://github.com/luizmanke/employee-attrition
 id: 0
 ---
 
-Emplyee attrition causes workforce reduction and costs money and time to find and train new people to fill the spot.
-To understand the main causes of this problem, predictive analytics and clustering analysis was applied in a sample dataset.
+Predictive analytics and clustering analysis is used to understand the main causes of employee attrition in order to save time and money when searching and training new people.
