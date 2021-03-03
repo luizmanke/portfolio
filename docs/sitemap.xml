@@ -10,7 +10,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://luizmanke.github.io/portfolio/kaggles/employee-attrition/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://luizmanke.github.io/portfolio/projects/market-sentiment-analysis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://luizmanke.github.io/portfolio/kaggles/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
