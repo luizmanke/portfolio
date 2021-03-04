@@ -34,12 +34,39 @@
     </item>
     
     <item>
+      <title>Git Best Practices</title>
+      <link>https://luizmanke.github.io/portfolio/tutorials/git-best-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luizmanke.github.io/portfolio/tutorials/git-best-practices/</guid>
+      <description>Git helps developers to orchestrate projects, but its basic functionalities must be well known by the team. In this repository, a gentle introduction to common git workflow tools is explained.</description>
+    </item>
+    
+    <item>
       <title>Market Sentiment Analysis</title>
       <link>https://luizmanke.github.io/portfolio/projects/market-sentiment-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://luizmanke.github.io/portfolio/projects/market-sentiment-analysis/</guid>
       <description>This is a work in progress that tries to find trends on the Brazillian companies based on the sentiment analysis of tweets. The whole architecture and analysis is made using Google Cloud services.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Markdown</title>
+      <link>https://luizmanke.github.io/portfolio/tutorials/mastering-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luizmanke.github.io/portfolio/tutorials/mastering-markdown/</guid>
+      <description>Markdown is a plain text formatting syntax widely used in software documentation. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML.</description>
+    </item>
+    
+    <item>
+      <title>Python Codility Solutions</title>
+      <link>https://luizmanke.github.io/portfolio/tutorials/codility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luizmanke.github.io/portfolio/tutorials/codility/</guid>
+      <description>Python is the most used programming laguage in data science. Knowing how to write efficient code is crucial. Here are my solutions to Codility&amp;rsquo;s challanges.</description>
     </item>
     
     <item>

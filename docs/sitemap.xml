@@ -18,7 +18,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://luizmanke.github.io/portfolio/tutorials/git-best-practices/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://luizmanke.github.io/portfolio/projects/market-sentiment-analysis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://luizmanke.github.io/portfolio/tutorials/mastering-markdown/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -30,7 +38,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://luizmanke.github.io/portfolio/tutorials/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://luizmanke.github.io/portfolio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://luizmanke.github.io/portfolio/tutorials/codility/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
