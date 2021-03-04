@@ -1,6 +1,6 @@
 ---
 title: Anomaly Detection in Turbofan Engines
-thumbnail: ensemble-anomaly-detection/image.png
+thumbnail: projects/ensemble-anomaly-detection/image.png
 projectUrl: https://github.com/luizmanke/ensemble-anomaly-detection
 id: 2
 ---

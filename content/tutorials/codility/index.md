@@ -1,6 +1,6 @@
 ---
 title: Python Codility Solutions
-thumbnail: codility/image.jpg
+thumbnail: tutorials/codility/image.jpg
 projectUrl: https://github.com/luizmanke/codility
 id: 2
 ---

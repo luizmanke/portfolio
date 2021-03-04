@@ -1,6 +1,6 @@
 ---
 title: Mastering Markdown
-thumbnail: mastering-markdown/image.jpg
+thumbnail: tutorials/mastering-markdown/image.jpg
 projectUrl: https://github.com/luizmanke/mastering-markdown
 id: 1
 ---

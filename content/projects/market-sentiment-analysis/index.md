@@ -1,6 +1,6 @@
 ---
 title: Market Sentiment Analysis
-thumbnail: market-sentiment-analysis/image.jpg
+thumbnail: projects/market-sentiment-analysis/image.jpg
 projectUrl: https://github.com/luizmanke/market-sentiment-analysis
 id: 1
 ---

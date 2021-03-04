@@ -1,6 +1,6 @@
 ---
 title: Customer Analytics
-thumbnail: customer-analytics/image.png
+thumbnail: kaggles/customer-analytics/image.png
 projectUrl: https://github.com/luizmanke/customer-analytics
 id: 1
 ---

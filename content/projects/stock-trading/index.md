@@ -1,6 +1,6 @@
 ---
 title: Stock Trading
-thumbnail: stock-trading/image.jpg
+thumbnail: projects/stock-trading/image.jpg
 projectUrl: https://github.com/luizmanke/stock-trading
 id: 0
 ---

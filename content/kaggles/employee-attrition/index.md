@@ -1,6 +1,6 @@
 ---
 title: Employee Attrition
-thumbnail: employee-attrition/image.jpg
+thumbnail: kaggles/employee-attrition/image.jpg
 projectUrl: https://github.com/luizmanke/employee-attrition
 id: 0
 ---

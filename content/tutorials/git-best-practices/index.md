@@ -1,6 +1,6 @@
 ---
 title: Git Best Practices
-thumbnail: git-best-practices/image.png
+thumbnail: tutorials/git-best-practices/image.png
 projectUrl: https://github.com/luizmanke/git-best-practices
 id: 0
 ---
