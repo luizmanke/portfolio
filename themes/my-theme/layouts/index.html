@@ -6,8 +6,8 @@
     {{ partial "projects/item" . }}
   {{ end }}
 
-<h1 style="margin-bottom: 30px; margin-top: 10px; border-bottom: #8494a4 1px solid">Kaggles</h1>
-  {{ $pages := where site.RegularPages "Type" "in" "kaggles" }}
+<h1 style="margin-bottom: 30px; margin-top: 10px; border-bottom: #8494a4 1px solid">Business Cases</h1>
+  {{ $pages := where site.RegularPages "Type" "in" "business" }}
   {{ range ($pages.ByParam "id") }}
     {{ partial "projects/item" . }}
   {{ end }}

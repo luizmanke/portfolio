@@ -6,7 +6,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://luizmanke.github.io/portfolio/kaggles/customer-analytics/</loc>
+    <loc>https://luizmanke.github.io/portfolio/business/customer-analytics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://luizmanke.github.io/portfolio/business/delivery-time/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -14,7 +18,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://luizmanke.github.io/portfolio/kaggles/employee-attrition/</loc>
+    <loc>https://luizmanke.github.io/portfolio/business/employee-attrition/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -30,7 +34,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://luizmanke.github.io/portfolio/kaggles/</loc>
+    <loc>https://luizmanke.github.io/portfolio/business/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
