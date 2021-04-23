@@ -2,7 +2,7 @@
 title: Anomaly Detection in Engines
 thumbnail: business/ensemble-anomaly-detection/image.png
 projectUrl: https://github.com/luizmanke/ensemble-anomaly-detection
-id: 4
+id: 5
 ---
 
 An ensemble anomaly detection framework is proposed to predict failures in turbofan engines before they break.

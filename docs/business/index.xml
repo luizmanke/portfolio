@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>Sales Forecasting</title>
+      <link>https://luizmanke.github.io/portfolio/business/sales-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luizmanke.github.io/portfolio/business/sales-forecasting/</guid>
+      <description>This project analyzes the market and sales of an online store historical data. It uses customer segmentation, clustering analysis and autoregressive models to find useful insights on how to improve the sales.</description>
+    </item>
+    
+    <item>
       <title>Virus Transmission</title>
       <link>https://luizmanke.github.io/portfolio/business/virus-transmission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
